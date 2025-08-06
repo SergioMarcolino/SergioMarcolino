@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Sergio Marcolino
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
-Me chamo Sergio Marcolino, tenho 21 anos e sou natural de São Paulo. Curso análise e desenvolvimento de sistemals na FACENS atualmente. Sou apaixonado por tecnologia e estou me aprimorando a cada dia.
+My name is Sergio Marcolino, I am 21 years old, and I am originally from São Paulo. I am currently studying Systems Analysis and Development at FACENS. I am passionate about technology and constantly working to improve myself every day.
 ---
 
 ### 🤖 Linguagens e Tecnologias
